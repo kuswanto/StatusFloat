@@ -4,6 +4,9 @@
 
 🎬 [OBS Floater Demo](https://youtu.be/edJDNuTKM0E) 
 
+Preview on 2560x1440 screen.
+![OBS Floater Preview](obs-floater-preview.jpg)
+
 ## Requirements
 
 Before running the script, ensure you have the following installed on your system:
@@ -53,6 +56,5 @@ pip install PyQt6 obs-websocket-py
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D41SPX1E)
 
-👍 Subsribe to [OpenQuestline](https://www.youtube.com/channel/UC3SxeNanAnhtBQMuBbrskdg/?sub_confirmation=1). My small game guide channel.  
-🐦 Follow me on [Twitter](https://x.com/kuswanto). Yes, I am old and I still called it Twitter..  
-🧵 Follow me on [Threads](https://www.threads.com/@ncus).  
+👍 Subscribe to [OpenQuestline](https://www.youtube.com/channel/UC3SxeNanAnhtBQMuBbrskdg/?sub_confirmation=1). My small game guide channel.  
+🐦 Follow me on [X](https://x.com/kuswanto). 🧵 Follow me on [Threads](https://www.threads.com/@ncus).  
