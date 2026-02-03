@@ -1,4 +1,5 @@
-# Readme
+# OBS Floater
+
 
 **OBS Floater** is a lightweight, floating status bar for OBS that displays real-time recording and streaming status overlay designed specifically for single-monitor streamers and recorders.
 
@@ -57,4 +58,8 @@ pip install PyQt6 obs-websocket-py
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D41SPX1E)
 
 👍 Subscribe to [OpenQuestline](https://www.youtube.com/channel/UC3SxeNanAnhtBQMuBbrskdg/?sub_confirmation=1). My small game guide channel.  
-🐦 Follow me on [X](https://x.com/kuswanto). 🧵 Follow me on [Threads](https://www.threads.com/@ncus).  
+🐦 Follow me on [X](https://x.com/kuswanto). 🧵 Follow me on [Threads](https://www.threads.com/@ncus).
+
+## License
+
+Change from MIT to GPL V2 to comply with OBS plugins license.
